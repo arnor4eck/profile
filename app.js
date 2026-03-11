@@ -24,12 +24,12 @@ const projects = [
     },
     {
         id: 2,
-        name: "Medisine Notes",
+        name: "Medicine Notes",
         images: ["images/project-2-1.png", "images/project-2-2.png", "images/project-2-3.png",
                 "images/project-2-4.png", "images/project-2-5.png","images/project-2-6.png"],
         source: "https://github.com/arnor4eck/MedicineNotes",
         content: `
-            <h2>Medisine Notes</h2>
+            <h2>Medicine Notes</h2>
             <p>Система для отслеживания приема лекарств с возможностью создания шаблонов, управления фактами приема и просмотра статистики.</p>
             <h3>Технологии:</h3>
             <ul>
